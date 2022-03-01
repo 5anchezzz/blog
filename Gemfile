@@ -58,7 +58,7 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'carrierwave', '~> 2.0'
 gem "mini_magick"
-gem 'image_processing', '~> 1.2'
+gem 'image_processing', '~> 1.12'
 gem 'will_paginate', '~> 3.1.0'
 gem 'ancestry'
 gem 'pg', '~> 0.18'
